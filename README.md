@@ -1,4 +1,4 @@
-#Digital signage using Raspberry Pi
+# Digital signage using Raspberry Pi
 
 All I wanted was a simple slideshow that would run on raspberry pi boot. Since I found the solutions which was bits and pieces from different source I figure i compile them in one document for my reference as well as others. All of the solution provided here are what worked for me and does not necessary means it will work for you,however I am always willing to improve so feel free to send me a message if you have better solution.
 
